@@ -43,8 +43,8 @@
       },
         "legend": {
           "title": "Food Spending (%)",
-          "direction": "horizontal",
-          "orient": "bottom"
+          "direction": "vertical",
+          "orient": "right"
       }
     },
         "tooltip": [
@@ -55,4 +55,5 @@
     }
   ]
 }
+
 
