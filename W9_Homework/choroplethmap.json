@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Food Spending by States in 2019",
+  "title": "State-Level Food Expenditure in Malaysia (2019)",
   "width": 820,
   "height": 420,
   "projection": {
@@ -55,3 +55,4 @@
     }
   ]
 }
+
