@@ -23,7 +23,7 @@
           "lookup": "properties.Name",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/abbie0711/3179/refs/heads/main/W9_Homework/food_spending.csv"
+              "url": "food_spending.csv"
             },
             "key": "State",
             "fields": ["Food Spending (%)"]
@@ -55,3 +55,4 @@
     }
   ]
 }
+
